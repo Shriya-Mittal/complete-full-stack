@@ -1,0 +1,33 @@
+
+body{
+    background-color: rgb(228, 248, 197);
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.avatar{
+    width: 250px;
+    height: 250px;
+    border-radius: 20%;
+}
+.card{
+    display: flex;
+    width: 600px;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0px auto;
+    padding: 50px;
+    border-radius: 20px;
+    background-color: rgb(221, 252, 221);
+
+    border: 3PX dotted yellow;
+    border-bottom: green 5px solid;
+    text-align: center;
+
+    
+
+}

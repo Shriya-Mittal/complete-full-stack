@@ -37,8 +37,8 @@ body{
     border: 6px solid black;
     border-radius: 15px;
     height: 400px;
-    /* background-image: url("images/gift.jpg"); */
-    background: linear-gradient(blue,pink);
+    background-image: url("images/gift.jpg");
+    /* background: linear-gradient(blue,pink); */
     background-size: cover;
     margin-bottom: 70px;
 

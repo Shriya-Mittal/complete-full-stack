@@ -1,0 +1,30 @@
+pwd    print current working directory    path
+ls    list the content in working directoery
+cd    to open some file or folder
+clear 
+
+touch   for creation of file in mac 
+rm       deletion
+New-Item -Path .\new_style.css    creation in windows
+
+mkdir create directory
+rmdir delete dir
+
+
+
+write to files
+echo 'hello world' >new_style.css
+echo 'hello world'      to terminal
+if no file existed with that name then echo created a new file
+
+overwrite   > or 
+append  >> write at end
+
+
+echo 'erlcome' >>new_Style.css
+
+
+read from files
+
+cat
+
